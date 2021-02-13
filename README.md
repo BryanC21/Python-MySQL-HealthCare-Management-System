@@ -1,19 +1,6 @@
 # Python-MySQL-App
 
-The application is a health management system that would be used by a health care provider. The application is using Python for the interface, and MySQL for the database. The database includes patients, doctors, appointments, health records, medications, messaging and more. The interface allows you to update and view database contents.
-
-Project Documentation
-• Sqlconfig.conf should be updated with mysql details
-• Database building will only trigger if any tables are missing
-• Run user_interface.py to run demo
-• You will only be allowed to make one account because the default inserts
-need your hard coded user id
-• Search accepts one attribute to search for in table
-• Insert can accept as many attributes as the table has
-• Update accepts one attribute to update. Must give current value of the
-attribute you want to change before giving new value
-• Delete accepts one attribute. Must give current value of the attribute you
-are searching with before deleting row
+The application is a health management system that would be used by a health care provider. The application is using Python for the interface, and MySQL for the database. The database includes patients, doctors, appointments, health records, medications, messaging and more. The interface allows you to view, update, delete, insert database contents. The app can detect if any DB tables are missing and uses a change log to recover missing data.
 
 Sample run:
 Setting up the database......

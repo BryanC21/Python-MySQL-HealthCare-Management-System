@@ -17,8 +17,8 @@ User Menu
 5. Update
 6. Delete
 7. Exit
-Select one option from the menu: 1 Email: bryan@gmail.com
-
+Select one option from the menu: 1 
+Email: bryan@gmail.com
 Password: 123
 Account successfully created User Menu
 1. Create Account
@@ -31,8 +31,10 @@ Account successfully created User Menu
 Select one option from the menu: 3
 Tables: Account Appointments Messages HealthRecord
 
-Select a table to search: Messages Search by (i.e name)? message_id Enter the value: 1
-(('Hello', 'Greetings', 'Jose', 'Jane Doe'),) Results from: Messages
+Select a table to search: Messages Search by (i.e name)? message_id 
+Enter the value: 1
+(('Hello', 'Greetings', 'Jose', 'Jane Doe'),) 
+Results from: Messages
 Message: ['Hello']
 Subject: ['Greetings']
 Patient: ['Jose'] Doctor: ['Jane Doe']
@@ -41,22 +43,29 @@ User Menu
 3. Search
 4. Insert
 5. Update
-
-6. Delete 7. Exit
+6. Delete 
+7. Exit
 Select one option from the menu: 4
 Tables: Account Appointments Messages HealthRecord
 Enter a table to insert data: Messages
 Enter the name attribute/s separated by comma? Subject,Message Enter the values separated by comma: subject, message
 Data successfully inserted into Messages
-User Menu
-1. Create Account 2. Login
 
-3. Search 4. Insert 5. Update 6. Delete 7. Exit
+User Menu
+1. Create Account 
+2. Login
+3. Search 
+4. Insert 
+5. Update 
+6. Delete 
+7. Exit
 Select one option from the menu: 5
 Tables: Account Appointments Messages HealthRecord
 Enter a table to update data: Account
 Enter the name of the attribute: Email
-What is the current value?: Bryan@gmail.com Enter the new value: bryan2@yahoo.com Data successfully updated into Account
+What is the current value?: Bryan@gmail.com 
+Enter the new value: bryan2@yahoo.com 
+Data successfully updated into Account
 
 User Menu
 1. Create Account 2. Login
@@ -70,7 +79,8 @@ Tables: Account Appointments Messages HealthRecord
 Enter a table to delete data: HealthRecord
 
 Enter the name attribute: record_id
-What is the current value of the attribute?: 2 Data successfully deleted from HealthRecord
+What is the current value of the attribute?: 2 
+Data successfully deleted from HealthRecord
 User Menu
 1. Create Account 2. Login
 3. Search
@@ -79,15 +89,19 @@ User Menu
 6. Delete
 7. Exit
 Select one option from the menu: 7
-(base) bryancaldera@Bryans-MacBook-Pro-3 python_mysql % /usr/bin/python3 /Users/bryancaldera/CSC675/final-project/python_mysql/user_interface.py Setting up the database......
+
+**Running app again**
 
 Set up process finished
 User Menu
-1. Create Account 2. Login
+1. Create Account 
+2. Login
 3. Search
 4. Insert
 5. Update
 6. Delete
 7. Exit
-Select one option from the menu: 2 Email: bryan2@yahoo.com Password: 123
+Select one option from the menu: 2 
+Email: bryan2@yahoo.com 
+Password: 123
 Logged in as, bryan2@yahoo.com

@@ -1,4 +1,4 @@
-# Python-MySQL-App
+# Python-MySQL-Health Care Management System
 
 The application is a health management system that would be used by a health care provider. The application is using Python for the interface, and MySQL for the database. The database includes patients, doctors, appointments, health records, medications, messaging and more. The interface allows you to view, update, delete, insert database contents. The app can detect if any DB tables are missing and uses a change log to recover missing data.
 

@@ -4,7 +4,7 @@ The application is a health management system that would be used by a health car
 
 ![alt text](https://i.imgur.com/RIIEkl3.png)
 
-#### Sample run:
+## Sample run:
 
 Setting up the database......  
 
